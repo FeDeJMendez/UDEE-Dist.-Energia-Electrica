@@ -1,0 +1,1 @@
+INSERT INTO users(username, password, rol) values ('employee1', '1234', 'ROLE_BACKOFFICE'), ('client1','1234', 'ROLE_CLIENT'), ('receiver','1234', 'ROLE_RECEIVER');
